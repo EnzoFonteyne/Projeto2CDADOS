@@ -1,1 +1,12 @@
 # Projeto2CDADOS
+
+## O projeto foi realizado em conjunto por André Faia, Arthur Pansini e Enzo Fonteyne. Todos participaram das aulas estúdio (na mesa 4) e participaram do projeto como um todo. 
+
+### Divisão de Tarefas:
+André Faia: Importação de bibliotecas, limpeza dos dados. Após isso, implementou o segundo modelo probabilístico e construiu o “heat map” que foi fundamental para obter as conclusões do projeto. 
+
+Arthur Pansini: Importação de bibliotecas, análise exploratória. Após isso estruturou e explicou os códigos e a linha de raciocínio utilizada no documento do projeto, além de estar presente participando nas demais implementações de resultados.
+
+Enzo Fonteyne: Importação de bibliotecas, limpeza dos dados. Após isso foi responsável por fazer a análise exploratória e construir o primeiro modelo probabilístico.
+
+## Vale ressaltar que apesar de um desproporcionalidade em relação aos commits todos participaram e deram opiniões para a construção do projeto, apesar de muitas vezes essas mudanças serem executadas através de apenas um dos computadores. 
