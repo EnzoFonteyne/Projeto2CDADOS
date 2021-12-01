@@ -9,4 +9,4 @@ Arthur Pansini: Importação de bibliotecas, análise exploratória. Após isso 
 
 Enzo Fonteyne: Importação de bibliotecas, limpeza dos dados. Após isso foi responsável por fazer a análise exploratória e construir o primeiro modelo probabilístico.
 
-### Vale ressaltar que apesar de uma desproporcionalidade em relação aos commits, todos participaram e deram opiniões para a construção do projeto, apesar de muitas vezes essas mudanças serem executadas através de apenas um dos computadores. 
+### Vale ressaltar que apesar de uma desproporcionalidade em relação aos commits, todos participaram e deram opiniões para a construção do projeto, apesar de muitas vezes essas mudanças serem executadas através de apenas um dos computadores. Como fizemos boa parte das nossa reuniões presencialmente, modificávamos o código em apenas um computador, para evitar conflitos entre os arquivos na hora de baixar ou dar commit
